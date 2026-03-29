@@ -6,7 +6,8 @@
 -CSS
 
 -JAVA SCRIPT
-https://img.icons8.com/?size=100&id=106036&format=png&color=000000
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/54f642bf-e2a5-4b68-a030-0862d98afc11" />
+
 ## OBJETIVO:
 - Criar uma aplicação web para uma loja de carros que permita aos usuários visualizar e comprar carros.
 ## REPOSITÓRIO:
