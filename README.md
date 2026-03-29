@@ -9,6 +9,6 @@
 
 
 ## OBJETIVO:
-- Criar uma aplicação web para uma loja de carros que permita aos usuários visualizar e comprar carros.
+- Criar uma aplicação web para uma loja de lava carros.
 ## REPOSITÓRIO:
  https://github.com/Rodolfocv33/Lava-Car.git
